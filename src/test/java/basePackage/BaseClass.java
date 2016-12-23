@@ -32,5 +32,22 @@ public class BaseClass {
 				
 	}
 	
+	public static void openURL(WebDriver driver,String baseURL ){
+		driver.get(baseURL);
+		baselog.info("Opened the Tricentis WebShop");
+	}
+	
+	public static void LogOut(WebDriver driver){
+		driver.findElement(By.linkText("Log out")).click();
+		baselog.info("Logged Out");
+	}
+	
+	public static void tearDown(WebDriver driver){
+		driver.quit();
+		baselog.info("Browser Closed");
+	}
+	
+	
+	
 
 }

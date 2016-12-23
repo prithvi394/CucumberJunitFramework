@@ -1,0 +1,537 @@
+INFO  | 2016-12-17 08:45:52 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-17 08:45:52 | [main] integrationTests.SignInTest (SignInTest.java:18) - Opened Base URL
+INFO  | 2016-12-17 13:44:53 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-17 13:44:53 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:18) - Opened Base URL
+INFO  | 2016-12-17 14:26:02 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-17 14:26:02 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-17 20:36:50 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-17 20:36:50 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-17 20:46:52 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-17 20:46:52 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-17 20:56:44 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-17 20:56:44 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-17 22:24:17 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-17 22:24:17 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-17 22:24:23 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-17 22:24:23 | [main] integrationTests.SignInTest (SignInTest.java:18) - Opened Base URL
+INFO  | 2016-12-17 22:27:30 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-17 22:27:30 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-19 20:39:29 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 20:39:29 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-19 20:40:52 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 20:40:52 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-19 20:47:24 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 20:47:24 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-19 20:50:35 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 20:50:35 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-19 20:53:36 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 20:53:36 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:27) - Opened Base URL
+INFO  | 2016-12-19 21:16:48 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 21:16:48 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:28) - Opened Base URL
+INFO  | 2016-12-19 21:16:49 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:35) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 21:16:52 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:42) - Entered UserName and Password
+INFO  | 2016-12-19 21:20:30 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 21:20:30 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:28) - Opened Base URL
+INFO  | 2016-12-19 21:20:31 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:35) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 21:20:33 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:42) - Entered UserName and Password
+INFO  | 2016-12-19 21:24:27 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 21:24:27 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:28) - Opened Base URL
+INFO  | 2016-12-19 21:24:27 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:35) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 21:24:31 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:42) - Entered UserName and Password
+INFO  | 2016-12-19 21:28:21 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 21:28:21 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:28) - Opened Base URL
+INFO  | 2016-12-19 21:28:22 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:35) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 21:28:25 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:42) - Entered UserName and Password
+INFO  | 2016-12-19 21:38:02 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 21:38:02 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:28) - Opened Base URL
+INFO  | 2016-12-19 21:38:03 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:35) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 21:38:04 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:42) - Entered UserName and Password
+INFO  | 2016-12-19 21:39:34 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 21:39:34 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:28) - Opened Base URL
+INFO  | 2016-12-19 21:39:34 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:35) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 21:39:36 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:42) - Entered UserName and Password
+INFO  | 2016-12-19 22:01:14 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 22:01:14 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:28) - Opened Base URL
+INFO  | 2016-12-19 22:01:15 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:35) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 22:01:17 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:42) - Entered UserName and Password
+INFO  | 2016-12-19 22:02:29 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 22:02:29 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:28) - Opened Base URL
+INFO  | 2016-12-19 22:02:30 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:35) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 22:02:31 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:42) - Entered UserName and Password
+INFO  | 2016-12-19 22:02:32 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-19 22:09:48 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 22:09:48 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:29) - Opened Base URL
+INFO  | 2016-12-19 22:09:48 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:36) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 22:09:50 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:43) - Entered UserName and Password
+INFO  | 2016-12-19 22:09:52 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-19 22:09:53 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-19 22:24:52 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 22:24:52 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-19 22:24:52 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 22:24:55 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-19 22:24:55 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:59) - AssertSuccess
+INFO  | 2016-12-19 22:24:56 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-19 22:24:57 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-19 22:25:41 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 22:25:41 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-19 22:25:42 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 22:25:44 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-19 22:25:45 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-19 22:25:47 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-19 22:27:23 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 22:27:23 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-19 22:27:24 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 22:27:25 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-19 22:27:27 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-19 22:27:28 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-19 22:28:55 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 22:28:55 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-19 22:28:56 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 22:28:59 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-19 22:29:00 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-19 22:29:00 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:64) - Logged Out
+INFO  | 2016-12-19 22:29:01 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-19 22:29:01 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:66) - Browser Closed
+INFO  | 2016-12-19 22:33:16 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 22:33:16 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-19 22:33:17 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 22:33:19 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-19 22:33:19 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:60) - AssertSuccess
+INFO  | 2016-12-19 22:33:20 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-19 22:33:21 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-19 22:40:15 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 22:40:15 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-19 22:40:16 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 22:40:17 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-19 22:40:18 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:56) - AssertFailure
+INFO  | 2016-12-19 22:40:19 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-19 22:40:20 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-19 22:40:51 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-19 22:40:51 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-19 22:40:52 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-19 22:40:54 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-19 22:40:54 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-19 22:40:55 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-19 22:40:56 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 12:48:33 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 12:48:34 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 12:48:34 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 12:48:35 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 12:48:36 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 12:48:38 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 12:49:34 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 12:49:34 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 12:49:34 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 12:49:35 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 12:49:36 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 12:49:36 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 12:49:37 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 12:50:26 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 12:50:26 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 12:50:27 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 12:50:28 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 12:50:28 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:56) - AssertFailure
+INFO  | 2016-12-20 12:50:29 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 12:50:30 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 12:50:58 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 12:50:58 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 12:50:58 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 12:51:00 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 12:51:00 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 12:51:00 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 12:51:01 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 12:51:32 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 12:51:32 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 12:51:32 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 12:51:33 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 12:51:34 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 12:51:34 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 12:51:35 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 12:58:24 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 12:58:24 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 12:58:25 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 12:58:26 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 12:58:26 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 12:58:27 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 12:58:28 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:16:22 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:16:22 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:16:23 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:16:24 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:16:24 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:16:24 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 14:16:25 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:24:27 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:24:27 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:24:28 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:24:29 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:24:29 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:24:29 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 14:24:30 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:25:11 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:25:11 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:25:11 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:25:13 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:25:13 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:56) - AssertFailure
+INFO  | 2016-12-20 14:26:14 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:26:14 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:26:15 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:26:16 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:26:16 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:26:17 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 14:26:18 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:26:58 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:26:58 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:26:58 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:26:59 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:26:59 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:56) - AssertFailure
+INFO  | 2016-12-20 14:30:36 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:30:36 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:30:37 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:30:38 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:30:38 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:30:39 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 14:30:40 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:31:21 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:31:21 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:31:22 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:31:23 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:31:23 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:31:24 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 14:31:25 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:32:05 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:32:05 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:32:06 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:32:06 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:32:06 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:56) - InvalidLogin
+INFO  | 2016-12-20 14:33:50 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:33:50 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:34:00 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:34:27 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:34:27 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:34:27 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:34:28 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:34:49 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:34:49 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:34:49 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:34:50 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:34:51 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:35:38 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:35:38 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:35:38 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:35:40 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:35:40 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:36:56 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:36:56 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:36:57 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:36:58 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:36:58 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:36:58 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 14:36:59 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:37:54 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:37:54 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:37:54 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:37:55 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:37:55 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:40:17 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:40:17 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:40:17 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:40:19 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:40:19 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:40:20 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 14:40:20 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:64) - I'm out of Scenario 1
+INFO  | 2016-12-20 14:41:00 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:41:00 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:41:01 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:41:01 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:41:01 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:56) - InvalidLogin
+INFO  | 2016-12-20 14:43:24 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:43:24 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:43:25 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:43:26 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:43:26 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:43:50 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:45:12 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:45:12 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:45:12 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:45:13 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:45:13 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:45:14 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 14:45:15 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:45:15 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:64) - I'm out of Scenario 1
+INFO  | 2016-12-20 14:45:24 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:45:31 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:45:31 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:45:32 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:45:32 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:45:32 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:56) - InvalidLogin
+INFO  | 2016-12-20 14:45:47 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:47:28 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:47:28 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:47:29 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:47:29 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:47:30 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:47:30 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 14:47:31 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:47:31 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:64) - I'm out of Scenario 1
+INFO  | 2016-12-20 14:47:41 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:48:56 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:48:56 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:48:56 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:48:57 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:48:57 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:48:58 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 14:48:59 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:48:59 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:64) - I'm out of Scenario 1
+INFO  | 2016-12-20 14:49:08 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:50:18 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:50:18 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:50:18 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:50:19 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:50:19 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:51:48 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:51:48 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:51:49 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:51:50 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:51:50 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:53:50 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:53:50 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:53:51 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:53:51 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:53:52 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:56) - AssertFailure
+INFO  | 2016-12-20 14:55:25 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:55:25 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:55:25 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:55:26 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:55:26 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:56:59 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:56:59 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:56:59 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:57:02 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:57:02 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 14:59:09 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 14:59:46 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 14:59:46 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 14:59:47 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 14:59:47 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 14:59:48 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 15:00:28 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 15:01:06 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 15:01:06 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 15:01:07 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 15:01:08 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 15:01:08 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 15:01:29 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 15:02:25 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 15:02:25 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 15:02:25 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 15:02:31 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 15:02:31 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 15:02:32 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 15:02:33 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 15:02:33 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:64) - I'm out of Scenario 1
+INFO  | 2016-12-20 15:03:09 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 15:03:09 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 15:03:09 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 15:03:11 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 15:03:11 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 15:03:12 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 15:03:24 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 15:03:27 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:64) - I'm out of Scenario 1
+INFO  | 2016-12-20 15:04:12 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 15:04:12 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 15:04:12 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 15:04:13 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 15:04:13 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 15:04:14 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 15:04:15 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 15:04:15 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:64) - I'm out of Scenario 1
+INFO  | 2016-12-20 15:08:06 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 15:08:06 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 15:08:06 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 15:08:08 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 15:08:08 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 15:08:13 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 15:08:14 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 15:08:18 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:29) - Im in scenario 2
+INFO  | 2016-12-20 15:08:28 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 15:08:33 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:33) - Opened Base URL
+INFO  | 2016-12-20 15:08:34 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:40) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 15:08:35 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:47) - Entered UserName and Password
+INFO  | 2016-12-20 15:08:35 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:59) - InvalidLogin
+INFO  | 2016-12-20 15:09:35 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 15:09:35 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 15:09:36 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 15:09:37 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 15:09:37 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 15:09:38 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 15:09:39 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 15:09:42 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:29) - Im in scenario 2
+INFO  | 2016-12-20 15:09:51 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 15:09:56 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:33) - Opened Base URL
+INFO  | 2016-12-20 15:09:56 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:40) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 15:09:57 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:47) - Entered UserName and Password
+INFO  | 2016-12-20 15:09:57 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:59) - InvalidLogin
+INFO  | 2016-12-20 15:19:39 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 15:19:39 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 15:19:39 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 15:19:40 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 15:19:40 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 15:19:41 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 15:19:42 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 15:19:49 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:29) - Im in scenario 2
+INFO  | 2016-12-20 15:19:57 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 15:20:02 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:33) - Opened Base URL
+INFO  | 2016-12-20 15:20:03 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:40) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 15:20:04 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:47) - Entered UserName and Password
+INFO  | 2016-12-20 15:20:04 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:59) - InvalidLogin
+INFO  | 2016-12-20 18:49:44 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 18:49:44 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 18:49:45 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 18:49:47 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 18:49:47 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 18:49:49 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 18:49:51 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 18:49:54 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:29) - Im in scenario 2
+INFO  | 2016-12-20 18:50:04 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 18:50:09 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:33) - Opened Base URL
+INFO  | 2016-12-20 18:50:10 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:40) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 18:50:10 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:47) - Entered UserName and Password
+INFO  | 2016-12-20 18:50:10 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:59) - InvalidLogin
+INFO  | 2016-12-20 19:03:11 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:03:20 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:03:25 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:03:26 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:03:27 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:03:27 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:57) - InvalidLogin
+INFO  | 2016-12-20 19:03:35 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:03:35 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 19:03:36 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:03:39 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 19:03:39 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 19:03:40 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 19:03:42 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:03:45 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:03:54 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:03:59 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:04:00 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:04:01 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:04:01 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:57) - InvalidLogin
+INFO  | 2016-12-20 19:04:39 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:04:48 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:04:53 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:04:54 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:04:55 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:04:55 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:57) - InvalidLogin
+INFO  | 2016-12-20 19:05:03 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:05:03 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 19:05:04 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:05:06 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 19:05:06 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 19:05:07 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 19:05:08 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:05:12 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:05:21 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:05:26 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:05:27 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:05:28 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:05:28 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:57) - InvalidLogin
+INFO  | 2016-12-20 19:26:54 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:27:03 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:27:08 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:27:09 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:27:09 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:27:09 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:57) - InvalidLogin
+INFO  | 2016-12-20 19:27:48 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:27:48 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 19:27:49 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:27:51 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 19:27:51 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 19:27:52 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 19:27:53 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:29:07 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:29:17 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:29:22 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:29:22 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:29:24 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:29:24 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:57) - InvalidLogin
+INFO  | 2016-12-20 19:29:25 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:29:33 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:29:33 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 19:29:34 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:29:35 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 19:29:35 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 19:29:37 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 19:29:38 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:29:41 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:29:50 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:29:55 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:29:56 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:29:57 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:29:57 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:57) - InvalidLogin
+INFO  | 2016-12-20 19:29:59 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:46:59 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:47:09 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:47:14 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:47:15 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:47:16 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:47:16 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:53) - Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+INFO  | 2016-12-20 19:47:17 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:47:24 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:47:24 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 19:47:25 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:47:27 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 19:47:27 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 19:47:28 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 19:47:29 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:47:33 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:47:42 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:47:47 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:47:48 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:47:49 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:47:49 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:53) - Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+INFO  | 2016-12-20 19:47:50 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:51:17 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:51:26 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:51:31 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:51:32 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:51:34 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:51:34 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:54) - Login with Invalid unscucessful
+INFO  | 2016-12-20 19:51:35 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:51:42 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:51:42 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 19:51:43 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:51:45 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 19:51:45 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 19:51:47 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 19:51:48 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 19:51:52 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:27) - Im in scenario 2
+INFO  | 2016-12-20 19:52:00 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 19:52:05 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:31) - Opened Base URL
+INFO  | 2016-12-20 19:52:06 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 19:52:07 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 19:52:07 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:54) - Login with Invalid unscucessful
+INFO  | 2016-12-20 19:52:08 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 20:29:22 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:27) - Im in scenario 2
+INFO  | 2016-12-20 20:29:31 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 20:29:36 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:31) - Opened Base URL
+INFO  | 2016-12-20 20:29:36 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 20:29:38 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 20:29:38 | [main] CucumberImplementationPackage.SignInTestInvalidCreds2 (SignInTestInvalidCreds2.java:54) - Login with Invalid unscucessful
+INFO  | 2016-12-20 20:29:40 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 20:29:47 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 20:29:47 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:30) - Opened Base URL
+INFO  | 2016-12-20 20:29:48 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:37) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 20:29:50 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:44) - Entered UserName and Password
+INFO  | 2016-12-20 20:29:50 | [main] CucumberImplementationPackage.SignInTest (SignInTest.java:53) - AssertSuccess
+INFO  | 2016-12-20 20:29:52 | [main] basePackage.BaseClass (BaseClass.java:42) - Logged Out
+INFO  | 2016-12-20 20:29:53 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
+INFO  | 2016-12-20 20:29:57 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:27) - Im in scenario 2
+INFO  | 2016-12-20 20:30:05 | [main] basePackage.BaseClass (BaseClass.java:37) - Opened the Tricentis WebShop
+INFO  | 2016-12-20 20:30:10 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:31) - Opened Base URL
+INFO  | 2016-12-20 20:30:11 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:38) - Navigated to SignInSignUp Page
+INFO  | 2016-12-20 20:30:13 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:45) - Entered UserName and Password
+INFO  | 2016-12-20 20:30:13 | [main] CucumberImplementationPackage.SignInTestInvalidCreds (SignInTestInvalidCreds.java:54) - Login with Invalid unscucessful
+INFO  | 2016-12-20 20:30:14 | [main] basePackage.BaseClass (BaseClass.java:47) - Browser Closed
